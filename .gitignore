@@ -1,0 +1,15 @@
+# Airflow
+airflow.db
+airflow.db-journal
+logs/
+*.pid
+standalone_admin_password.txt
+
+# Python
+__pycache__/
+*.pyc
+
+# Ambiente virtual
+venv/
+
+
